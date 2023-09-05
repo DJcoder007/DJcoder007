@@ -1,4 +1,3 @@
-# main
 <h2 align="right">Hi 👋! My name is Dion Johnson and I'm a Freelancer from Alappuzha, Kerala</h2>
 
 ###
